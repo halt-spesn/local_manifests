@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <!-- Device tree -->
+    <project
+        name="halt-spesn/device_xiaomi_spes-16"
+        path="device/xiaomi/spes"
+        remote="github"
+        revision="16" />
+
+    <!-- Kernel -->
+    <project
+        name="halt-spesn/spes-depth1"
+        path="kernel/xiaomi/spes"
+        remote="github"
+        revision="16" />
+
+    <!-- Vendor -->
+    <project
+        name="halt-spesn/vendor_xiaomi_spes-16"
+        path="vendor/xiaomi/spes"
+        remote="github"
+        revision="16" />
+
+    <!-- Hardware -->
+    <project
+        name="halt-spesn/hardware_xiaomi-16"
+        path="hardware/xiaomi"
+        remote="github"
+        revision="15.0" />
+
+    <!-- Remote definition -->
+    <remote
+        name="github"
+        fetch="https://github.com/" />
+
+</manifest>
