@@ -10,7 +10,7 @@
 
     <!-- Kernel -->
     <project
-        name="halt-spesn/spes-depth1"
+        name="halt-spesn/linux_spes-16"
         path="kernel/xiaomi/spes"
         remote="github"
         revision="16" />
