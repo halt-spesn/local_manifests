@@ -6,14 +6,14 @@
         name="halt-spesn/device_xiaomi_spes-16"
         path="device/xiaomi/spes"
         remote="github"
-        revision="16" />
+        revision="wtf" />
 
     <!-- Kernel -->
     <project
         name="halt-spesn/linux_spes-16"
         path="kernel/xiaomi/spes"
         remote="github"
-        revision="16" />
+        revision="13.0.0-perf" />
 
     <!-- Vendor -->
     <project
