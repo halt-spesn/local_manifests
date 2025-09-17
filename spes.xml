@@ -10,10 +10,10 @@
 
     <!-- Kernel -->
     <project
-        name="halt-spesn/linux_spes-16"
+        name="halt-spesn/kernel_xiaomi_spes-16"
         path="kernel/xiaomi/spes"
         remote="github"
-        revision="13.0.0-perf" />
+        revision="16" />
 
     <!-- Vendor -->
     <project
