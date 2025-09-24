@@ -13,7 +13,7 @@
         name="halt-spesn/kernel_xiaomi_spes-16"
         path="kernel/xiaomi/spes"
         remote="github"
-        revision="16" />
+        revision="depth" />
 
     <!-- Vendor -->
     <project
